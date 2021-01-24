@@ -1,2 +1,2 @@
-# One-Word-Intercation-Technique-Intelligent-Chat
-Synonym and Sentiment Based One Word Interaction design for ChatBot
+# One-Word-Intercation-Method-for-Intelligent-ChatBot
+Synonym and Sentiment Based One Word Interaction design for ChatBot.
